@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body {margin: 0; padding: 0; font-size: 9pt;}
+
+.icons:hover {background-color: black;}
+.icons2:hover {background-color: red;}
+.icons3:hover {background-color: green;}
+.icons4:hover {background-color: yellow;}
+.icons5:hover {background-color: blue;}
+.icons6:hover {background-color: grey;}
